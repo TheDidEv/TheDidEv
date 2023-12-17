@@ -4,4 +4,4 @@
 - 🏗️ Full Stack Developer
 - 🎓 I’m a student of Taras Shevchenko National University of Kyiv Faculty of Computer Science and Cybernetics
 - 🛠️ Core stack: `NodeJS`, `TypeScript`, `JavaScript`, `Express`, `React`, `Redux`, `PostgreSQL`, `TypeORM`, `PrismaORM`, `HTML`, `CSS`, `SCSS`, `Docker`, `Bootstrap`, `JWT`, `CORS`, `Jest`
-- 💻 Also have experience: `C++`, `C#`
+- 💻 Also have experience: `C++`, `C#`, `Python`
